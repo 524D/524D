@@ -4,6 +4,8 @@
 
 - 💻 Some of my current projects are: [mzRecal](https://github.com/524D/mzrecal), [CompareMS2](https://github.com/524D/compareMS2),
 
+- 🧠 My interests are: mass spectromety, software security, software reliability and testability, user interface design
+
 - ⚡ Fun fact: Some interesting facts about the number [42](https://www.theguardian.com/books/2011/feb/03/douglas-adams-42-hitchhiker) are [revealed by John Baez](https://math.ucr.edu/home/baez/42.html)
 
 <h3 align="left">Some of the computer languages and tools I use:</h3>
